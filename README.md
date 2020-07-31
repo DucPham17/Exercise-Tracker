@@ -34,7 +34,7 @@ This project can be used on glich
 1.0.0
 ## Authors
 
-* **Duc Pham*
+*Duc Pham*
 
 ## Acknowledgments
 
