@@ -22,7 +22,9 @@ First put in your name, the system gonna send back and id, keep that id. When yo
 
 ## Deployment
 
-This project can be used on glich
+This project can be used on glitch
+## Photo
+![1](https://user-images.githubusercontent.com/66095400/89721332-f44efa00-d9a1-11ea-9383-40a075bf232f.PNG)
 
 ## Built With
 
@@ -39,4 +41,6 @@ This project can be used on glich
 ## Acknowledgments
 
 * This just a simple project to keep track of your exercise
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
 
